@@ -1,4 +1,5 @@
-# MTG-API Client
+
+# MTG-API Client [![Build Status](https://travis-ci.com/AlexW-GH/mtg-sdk-rust.svg?branch=master)](https://travis-ci.com/AlexW-GH/mtg-sdk-rust)
 Rust Wrapper around the https://magicthegathering.io/ API
 
 In-depth documentation about the capabilities can be found here: https://docs.magicthegathering.io/
